@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.card{
+ border:1px solid red;
+ padding:20px;
+ margin:10px;
+}
+
+h5{
+  color:green;
+}
+
+p{
+  color:blue
+}
